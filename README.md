@@ -33,9 +33,9 @@ This repository contains three key Arduino codes:
 
 | File Name | Description |
 |:---|:---|
-| `sensor_reading.ino` | Reads and processes Force Sensor data (FSRs). |
-| `joystick_control.ino` | Controls the 2D plotter using a joystick for X and Y axis movement. |
-| `sensor_with_joystick_control.ino` | Integrates both sensor reading and joystick control for more advanced movement detection. |
+| `data_force_sensor_.ino` | Reads and processes Force Sensor data (FSRs). |
+| `motor_control_joystick.ino` | Controls the 2D plotter using a joystick for X and Y axis movement. |
+| `force_sensor_Control.ino` | Integrates both sensor reading and  control for more advanced movement detection. |
 
 Each file includes appropriate comments for ease of understanding.
 
