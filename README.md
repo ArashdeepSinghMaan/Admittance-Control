@@ -15,7 +15,7 @@ In this project, we built a 2D plotter platform controlled via force-based input
 
 To view the complete project documentation, open the file:
 
-> [`Medical.pdf`](Medical(1).pdf)
+> [`Medical.pdf`](Project_Report.pdf)
 
 This file contains:
 - Introduction
