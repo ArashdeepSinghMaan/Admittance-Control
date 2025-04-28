@@ -15,7 +15,7 @@ In this project, we built a 2D plotter platform controlled via force-based input
 
 To view the complete project documentation, open the file:
 
-> [`Medical.pdf`](Project_Report.pdf)
+> [`Project_report.pdf`](Project_Report.pdf)
 
 This file contains:
 - Introduction
@@ -71,4 +71,4 @@ Completed in **April 2025** as part of coursework at **Indian Institute of Techn
 ---
 
 ### Video
-[![Watch the video](https://img.youtube.com/vi/sHFUjIs1uUQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=sHFUjIs1uUQ)
+[![Watch the video](https://img.youtube.com/vi/sHFUjIs1uUQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=sHFUjIs1uUQ&list=PLeGlw_YNKerHX_C80LSZn-a136d4a8ix2)
